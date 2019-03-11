@@ -1,0 +1,38 @@
+---
+title: "Workout 1"
+author:"Bolong Zheng"
+output: github_document
+---
+
+```{r}
+library(ggplot2)
+library(grid)
+library(jpeg)
+library(dplyr)
+```
+
+#2-pt effective shooting% by player
+```{r}
+table_2pt <- assembled %>%
+  filter(shot_type == "2PT Field Goal") %>%
+  group_by(name) %>%
+  summarize(total= length(shot_made_flag), made = length(shot_made_flag[shot_made_flag == "shot_yes"]), perc_made = made/total) %>%
+  arrange(desc(perc_made))
+```
+
+#3-pt effective shooting% by player
+```{r}
+table_3pt <-  assembled %>%
+  filter(shot_type == "3PT Field Goal") %>%
+  group_by(name) %>%
+  summarize(total= length(shot_made_flag), made = length(shot_made_flag[shot_made_flag == "shot_yes"]), perc_made = made/total) %>%
+  arrange(desc(perc_made))
+```
+
+#effective shooting% by player
+```{r}
+table_ovrall <-  assembled %>%
+  group_by(name) %>%
+  summarize(total= length(shot_made_flag), made = length(shot_made_flag[shot_made_flag == "shot_yes"]), perc_made = made/total) %>%
+  arrange(desc(perc_made))
+```
