@@ -11,6 +11,6 @@ Here's the description of the data variables:
 - shot_type indicates whether a shot is a 2-point field goal, or a 3-point field goal.
 - shot_distance: distance to the basket (measured in feet).
 - opponent: the team in a given game that the player played against
--x and y refer to the court coordinates (measured in inches) where a shot occurred .
+- x and y refer to the court coordinates (measured in inches) where a shot occurred .
 - name: literally, the name of the player
 - minute: the minute number where a shot occurred. For instance, if a shot took place during period = 1 and minutes_remaining = 8, then this should correspond to a value minute = 4. Likewise, if a shot took place during period = 4 and minutes_remaining = 2 then this should correspond to a value minute = 46. 
