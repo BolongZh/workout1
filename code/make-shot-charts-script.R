@@ -1,7 +1,7 @@
 ##shot charts
-#1.input
-#2.output
-#3.description
+#1.input: tables of players
+#2.output: image files
+#3.description: generating shot charts for gsw players
 
 #court image(to be used as background of plot)
 court_file <- "../Desktop/STAT133/workout1/images/nba-court.jpg"
