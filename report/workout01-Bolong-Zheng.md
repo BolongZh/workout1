@@ -53,7 +53,7 @@ Bolong Zheng
 | Born        |    OH, 1988   |
 | Height      |   6 ft 3 in   |
 
-For the narrative part, we intuitively decided to foucus on Drayond Green.
+For the narrative part, we intuitively decided to foucus on Draymond Green.
 
 2) Data
 -------
@@ -106,7 +106,7 @@ Of course we can not possibly compare Draymond Green with Klay Thompson, who is 
 
 Last but not least, for the "Overall Effective Shooting % by Player", Green also fails miserably in his team by being the last with 42.4% effectiveness, behind Stephen Curry by a considerable 4.3%. To get a visualization of the overall effectiveness of shooting, let's take a look at the "Shot Charts: GSW (2016 Season)", Green's shooting attempts are scarce with highly concentrated and unsuccessful missing shots. Especially around the part of the field under the hoop, Green's missing shots are massive, with the successful shots almost completely overshadowed by the attempts that went awry. In juxtaposition, Green's teammates in Golden State Warriors present relatively well balanced shooting charts.
 
-All in all Green is obviously incompetent in terms of shooting and this inadequacy of him is obtrusively conspicuous alongside his teammates. Even in 2018, Green's unsatisfactory shooting performance received a great deal of criticism from NBA analysts. An article from "SB Nation" brought to question ["Should Draymond Green continue shooting threes"](https://www.goldenstateofmind.com/2018/12/22/18152009/warriors-2018-draymond-green-three-point-shooting-rotation)?. Although this article went on a defensive side for Draymond Green, it apparently feels stilted and not buttressed by strong arguments. Another piece from "San Fransisco Chronicle" called ["Why Draymond Greenâ€™s shooting woes hurt Warriors more than you might think"](https://www.sfchronicle.com/warriors/article/Why-Draymond-Green-s-shooting-woes-hurt-13492428.php) hints at the insidious harm Green has been bringing to his team. These editorials validate that our analysis of the data coincides with the popular opinion.
+All in all Green is obviously incompetent in terms of shooting and this inadequacy of him is obtrusively conspicuous alongside his teammates. Even in 2018, Green's unsatisfactory shooting performance received a great deal of criticism from NBA analysts. An article from "SB Nation" brought to question ["Should Draymond Green continue shooting threes"](https://www.goldenstateofmind.com/2018/12/22/18152009/warriors-2018-draymond-green-three-point-shooting-rotation)?. Although this article went on a defensive side for Draymond Green, it apparently feels stilted and not buttressed by strong arguments. Another piece from "San Fransisco Chronicle" called ["Why Draymond Green¡¯s shooting woes hurt Warriors more than you might think"](https://www.sfchronicle.com/warriors/article/Why-Draymond-Green-s-shooting-woes-hurt-13492428.php) hints at the insidious harm Green has been bringing to his team. These editorials validate that our analysis of the data coincides with the popular opinion.
 
 I really hope Draymond Green can surprise us with improving shooting skills in the forthcoming seasons.
 
