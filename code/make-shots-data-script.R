@@ -1,8 +1,8 @@
 ##Data preparation script
 
 #1.input:data of our chosen nba players
-#2.output:table and summary of chosen nba players' shots
-#3.description
+#2.output:table and summary files of chosen nba players' shots
+#3.description: data preparation for our analysis of GSW players
 
 #assign variable names to each data set
 kt<- read.csv(file="../Desktop/STAT133/workout1/data/klay-thompson.csv", stringsAsFactors = FALSE)
